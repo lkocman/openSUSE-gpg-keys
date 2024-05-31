@@ -1,0 +1,1 @@
+# openSUSE-gpg-keys
